@@ -107,7 +107,7 @@
 
 | GAP 상위 10개 과정  | 중요도–실행도 사분면 |
 |--------------|------|
-| <img width="889" height="590" alt="Image" src="https://github.com/user-attachments/assets/671de09a-b598-48fd-b293-c22cbe4d7525" /> | <img width="950" height="989" alt="Image" src="https://github.com/user-attachments/assets/0ebc96b0-b069-464b-a060-42da6a19256f" /> |
+| <img width="889" height="590" alt="Image" src="https://github.com/user-attachments/assets/671de09a-b598-48fd-b293-c22cbe4d7525" /> | <img width="852" height="889" alt="Image" src="https://github.com/user-attachments/assets/694b1965-08f8-4f84-93cc-795f912874e7" /> |
 
 GAP 상위 과정 분석 결과,
 

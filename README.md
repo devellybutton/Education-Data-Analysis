@@ -23,7 +23,7 @@
 
 | 1. 센터 이용자 설문 분석 | 2. 교육 수요조사 분석 | 3. 교육 전후 효과 분석 |
 |---|---|---|
-| <img width="590" height="590" alt="Image" src="https://github.com/user-attachments/assets/1634d0b2-9c03-48df-935c-bd42e0633a64" width="200"/>  | <img width="852" height="889" alt="Image" src="https://github.com/user-attachments/assets/6d8dd2f9-8313-4e24-989f-a93f02551c77" width="200"/>| <img width="2262" height="1446" alt="Image" src="https://github.com/user-attachments/assets/4f0ec32d-32c4-4a94-9c67-486390b04aeb" width="200"/> |
+| <img alt="Image" src="https://github.com/user-attachments/assets/1634d0b2-9c03-48df-935c-bd42e0633a64" width="200"/> | <img alt="Image" src="https://github.com/user-attachments/assets/6d8dd2f9-8313-4e24-989f-a93f02551c77" width="200"/> | <img alt="Image" src="https://github.com/user-attachments/assets/4f0ec32d-32c4-4a94-9c67-486390b04aeb" width="200"/> |
 
 <br/>
 
